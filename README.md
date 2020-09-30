@@ -1,0 +1,2 @@
+# motivedata
+MotiveApp uchun motivelar
