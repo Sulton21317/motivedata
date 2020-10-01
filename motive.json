@@ -33,7 +33,29 @@
     "name":"Nike firmasi"
   },
   {
+    "quote":"Oʼzligini anglab yetgan, qalbiga quloq solgan, xar bir inson, oʼziga men bu foniy dunyoda nima ish qildim, yana qanday ishlar qilishga vaqtim va qurbim yetadi degan savolni berishi kerak !",
+    "name":"Islom Karimov"
+  },
+  
+  
+   {
+    "quote":"Natija sari emas maqsad sari intiling. Yani, biror vazifani o'zingizga yoqqani, yoki bu faoliyat kimgadir foyda keltirishi, yoki foydali mashg'ulot ekanligi uchun bajaring. Moddiy foyda yoki obro'ni ko'zlab ish tutmang. Ularning o'zi sizni qidirib keladi. Dunyo shu tamoyil bilan ishlaydi.",
+    "name":"Robin Sharma"
+  }, {
+    "quote":"Puldan boshqasini keltirmaydigan biznes - qashshoq biznesdir",
+    "name":"Genri Ford"
+  }, {
+    "quote":"Insonga Alloh tomonidan tug’ilishi bilan beriladigan yagona xazina – vaqtdir.",
+    "name":"_"
+  }, {
+    "quote":"Shukrda bardavom, sabrda mahkam boʻling, chunki u ikkisi neʼmatlarni ziyoda qilib, musibatlarni aritadi. ",
+    "name":"Ali ibn Abu Tolib roziyallohu anhu"
+  }, {
+    "quote":"Butun dunyo sizga qarshi bo'lib ko'ringanida, samolyot shamolga qarshi uchayotganini unutmang.",
+    "name":"Genri Ford"
+  }, {
     "quote":"Ishlash uzoq muddatli muammolarning qisqa muddatli yechimidir",
     "name":"Robert Kiosaki"
-  }
+  },
+  
   ]
